@@ -5,15 +5,9 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Next.js and Nest.js**
-
-- 👨‍💻 All of my projects are available at [https:myportfolio.adnan.com](https:myportfolio.adnan.com)
-
 - 💬 Ask me about **Node.js, Express.js, React.js, MongoDB**
 
 - 📫 How to reach me **adnan.iit.du@gmail.com**
-
-- ⚡ Fun fact **Don't Trust Everything In The Universe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
