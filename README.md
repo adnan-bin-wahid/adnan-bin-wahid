@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Adnan Bin Wahid</h1>
+<h1 align="center">Hi, I'm Adnan Bin Wahid</h1>
 <h3 align="center">Software Engineering Student | Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
@@ -8,23 +8,23 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a **Software Engineering student at the Institute of Information Technology, University of Dhaka**, with a strong interest in full stack development, scalable web systems, and practical software engineering.
 
 My work mainly focuses on building real-world applications using **React.js, Node.js, Express.js, MongoDB, PostgreSQL**, and modern backend technologies. I enjoy working on systems that involve clean architecture, structured data management, REST APIs, and meaningful user experiences.
 
-- 🎓 Studying **BSc in Software Engineering** at **University of Dhaka**
-- 💼 Former **Software Engineer Intern** at **Kaz Software Limited**
-- 🔭 Currently working with **MERN Stack** and full stack web applications
-- 🌱 Exploring **system design, cloud deployment, testing, and AI-assisted developer tools**
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs**
-- 📫 Reach me at **bsse1442@iit.du.ac.bd**
-- ⚡ I care about writing clean, maintainable, and useful software
+- Studying **BSc in Software Engineering** at **University of Dhaka**
+- Former **Software Engineer Intern** at **Kaz Software Limited**
+- Currently working with **MERN Stack** and full stack web applications
+- Exploring **system design, cloud deployment, testing, and AI-assisted developer tools**
+- Ask me about **React.js, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs**
+- Reach me at **bsse1442@iit.du.ac.bd**
+- I care about writing clean, maintainable, and useful software
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/adnan-bin-wahid" target="_blank">
@@ -43,7 +43,7 @@ My work mainly focuses on building real-world applications using **React.js, Nod
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 <p>
@@ -79,7 +79,7 @@ My work mainly focuses on building real-world applications using **React.js, Nod
 
 ---
 
-## 📌 Featured Focus Areas
+## Featured Focus Areas
 
 - Full Stack Web Application Development  
 - REST API Design and Backend Integration  
@@ -92,7 +92,7 @@ My work mainly focuses on building real-world applications using **React.js, Nod
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Engineer Intern — Kaz Software Limited
 
@@ -100,9 +100,9 @@ Worked on frontend and backend features for production-oriented software project
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 RepoAlign — AI-driven Semantic Consistency Checker
+### RepoAlign — AI-driven Semantic Consistency Checker
 A developer tool built as a VS Code extension to analyze repository-level code structure and support semantic consistency checking across a codebase.
 
 **Tech:** TypeScript, VS Code API, Python, FastAPI, SQLite, Sentence-Transformer, ts-morph, Z3  
@@ -110,7 +110,7 @@ A developer tool built as a VS Code extension to analyze repository-level code s
 
 ---
 
-### 🔹 Liberation War Museum Archival System
+### Liberation War Museum Archival System
 A full stack archival management system designed to organize, store, and make large-scale historical records more searchable and accessible through a centralized platform.
 
 **Tech:** React.js, Node.js, Express.js, PostgreSQL, Sequelize  
@@ -118,7 +118,7 @@ A full stack archival management system designed to organize, store, and make la
 
 ---
 
-### 🔹 Shikhon360 — Interactive Educational Platform
+### Shikhon360 — Interactive Educational Platform
 An educational platform focused on interactive learning features, STEM simulations, AI tutoring, multilingual text-to-speech, and collaborative learning support.
 
 **Tech:** React.js, Node.js, MongoDB, Express.js, Azure TTS, Google Generative AI, Vercel, Render  
@@ -126,7 +126,7 @@ An educational platform focused on interactive learning features, STEM simulatio
 
 ---
 
-### 🔹 Gontobbo — Distributed Ride-Sharing System
+### Gontobbo — Distributed Ride-Sharing System
 A ride-sharing system with geolocation support, fare estimation, JWT-based authentication, REST APIs, Docker support, and service-oriented project structure.
 
 **Tech:** React.js, Node.js, MongoDB, JWT, Docker  
@@ -134,7 +134,7 @@ A ride-sharing system with geolocation support, fare estimation, JWT-based authe
 
 ---
 
-### 🔹 HashStego Vault
+### HashStego Vault
 A C/C++ based security project that uses image steganography and cryptographic hashing for secure data embedding and integrity verification.
 
 **Tech:** C, C++  
@@ -142,7 +142,7 @@ A C/C++ based security project that uses image steganography and cryptographic h
 
 ---
 
-## 🏆 Achievements & Leadership
+## Achievements & Leadership
 
 - Finalist, **BUET CSE Fest 2025 Poster Presentation**
 - 3rd Runner-Up, **SN Bose Hackathon**
@@ -150,23 +150,17 @@ A C/C++ based security project that uses image steganography and cryptographic h
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnan-bin-wahid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-bin-wahid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-bin-wahid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adnan-bin-wahid&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
@@ -174,7 +168,7 @@ A C/C++ based security project that uses image steganography and cryptographic h
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnan-bin-wahid&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
@@ -182,7 +176,6 @@ A C/C++ based security project that uses image steganography and cryptographic h
 
 ---
 
-## ✨ Quote
 
 <p align="center">
   <i>"I like building software that is practical, organized, and useful beyond just the code."</i>
