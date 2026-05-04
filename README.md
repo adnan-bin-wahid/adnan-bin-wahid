@@ -12,6 +12,7 @@
 
 I am a passionate **Full Stack Web Developer** from Bangladesh with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy working with the **MERN Stack** and love transforming ideas into real-world digital products.
 
+- 🎓 Software Engineering student at **Institute of Information Technology, University of Dhaka**
 - 🔭 Currently working on **MERN Stack Projects**
 - 🌱 Exploring advanced **Full Stack Development**, **Cloud**, and **System Design**
 - 💬 Ask me about **Node.js, Express.js, React.js, MongoDB**
@@ -23,6 +24,12 @@ I am a passionate **Full Stack Web Developer** from Bangladesh with a strong int
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://github.com/adnan-bin-wahid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/adnan-bin-wahid/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://fb.com/adnan08072" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -77,6 +84,40 @@ I am a passionate **Full Stack Web Developer** from Bangladesh with a strong int
 - Database Design and Management  
 - MERN Stack Project Architecture  
 - Clean, Maintainable, and Scalable Code  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 RepoAlign — AI-driven Semantic Consistency Checker
+A VS Code extension focused on repository-level semantic analysis, code consistency checking, and AI-assisted developer workflow.
+
+**Tech:** TypeScript, VS Code API, Python, FastAPI, SQLite, Sentence-Transformer, ts-morph, Z3  
+🔗 [View Repository](https://github.com/adnan-bin-wahid/repoalign-vscode)
+
+---
+
+### 🔹 Liberation War Museum Archival System
+A digital archival management system built to organize, index, and manage large-scale historical records and artifacts.
+
+**Tech:** React.js, Node.js, Express.js, PostgreSQL, Sequelize  
+🔗 [View Repository](https://github.com/adnan-bin-wahid/LWM-Management-System.git)
+
+---
+
+### 🔹 Shikhon360 — Interactive Educational Platform
+An educational platform featuring STEM simulations, AI tutoring, multilingual TTS, and collaborative learning features.
+
+**Tech:** React.js, Node.js, MongoDB, Express.js, Azure TTS, Google Generative AI  
+🔗 [View Repository](https://github.com/adnan-bin-wahid/SNBoseHack.git)
+
+---
+
+### 🔹 Gontobbo — Distributed Ride-Sharing System
+A ride-sharing platform with geolocation, fare estimation, JWT authentication, REST APIs, and Docker-based deployment support.
+
+**Tech:** React.js, Node.js, MongoDB, JWT, Docker  
+🔗 [View Repository](https://github.com/adnan-bin-wahid/Gontobbo.git)
 
 ---
 
