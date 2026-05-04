@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Adnan Bin Wahid</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Engineering Student | Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adnan-bin-wahid&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,14 +10,17 @@
 
 ## 🚀 About Me
 
-I am a passionate **Full Stack Web Developer** from Bangladesh with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy working with the **MERN Stack** and love transforming ideas into real-world digital products.
+I am a **Software Engineering student at the Institute of Information Technology, University of Dhaka**, with a strong interest in full stack development, scalable web systems, and practical software engineering.
 
-- 🎓 Software Engineering student at **Institute of Information Technology, University of Dhaka**
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Exploring advanced **Full Stack Development**, **Cloud**, and **System Design**
-- 💬 Ask me about **Node.js, Express.js, React.js, MongoDB**
-- 📫 Reach me at **adnan.iit.du@gmail.com**
-- ⚡ Passionate about clean code, performance, and practical problem solving
+My work mainly focuses on building real-world applications using **React.js, Node.js, Express.js, MongoDB, PostgreSQL**, and modern backend technologies. I enjoy working on systems that involve clean architecture, structured data management, REST APIs, and meaningful user experiences.
+
+- 🎓 Studying **BSc in Software Engineering** at **University of Dhaka**
+- 💼 Former **Software Engineer Intern** at **Kaz Software Limited**
+- 🔭 Currently working with **MERN Stack** and full stack web applications
+- 🌱 Exploring **system design, cloud deployment, testing, and AI-assisted developer tools**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs**
+- 📫 Reach me at **bsse1442@iit.du.ac.bd**
+- ⚡ I care about writing clean, maintainable, and useful software
 
 ---
 
@@ -33,7 +36,7 @@ I am a passionate **Full Stack Web Developer** from Bangladesh with a strong int
   <a href="https://fb.com/adnan08072" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:adnan.iit.du@gmail.com">
+  <a href="mailto:bsse1442@iit.du.ac.bd">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -44,23 +47,24 @@ I am a passionate **Full Stack Web Developer** from Bangladesh with a strong int
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet,spring" />
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="MS SQL Server" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle" />
 </p>
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,cs" />
 </p>
 
 ### Mobile & Cross Platform
@@ -68,9 +72,9 @@ I am a passionate **Full Stack Web Developer** from Bangladesh with a strong int
   <img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
 
-### Tools, Cloud & DevOps
+### Tools, Testing, Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,azure,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,selenium,nginx,vercel,maven,aws,azure,figma" />
 </p>
 
 ---
@@ -78,19 +82,28 @@ I am a passionate **Full Stack Web Developer** from Bangladesh with a strong int
 ## 📌 Featured Focus Areas
 
 - Full Stack Web Application Development  
-- REST API Design and Integration  
-- Responsive UI/UX Implementation  
-- Authentication and Authorization  
-- Database Design and Management  
-- MERN Stack Project Architecture  
-- Clean, Maintainable, and Scalable Code  
+- REST API Design and Backend Integration  
+- Database Design, Migration, and Structured Data Management  
+- Responsive and User-focused Frontend Development  
+- Authentication, Authorization, and Secure Application Flow  
+- Testing, Debugging, and Build Tooling  
+- MERN Stack and PostgreSQL-based Application Architecture  
+- Clean, Maintainable, and Scalable Software Design  
+
+---
+
+## 💼 Experience
+
+### Software Engineer Intern — Kaz Software Limited
+
+Worked on frontend and backend features for production-oriented software projects using **Angular, .NET Core, MS SQL Server, and REST APIs**. Gained hands-on experience in building responsive interfaces, integrating backend services, working with API documentation tools, and collaborating in an Agile development environment.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 RepoAlign — AI-driven Semantic Consistency Checker
-A VS Code extension focused on repository-level semantic analysis, code consistency checking, and AI-assisted developer workflow.
+A developer tool built as a VS Code extension to analyze repository-level code structure and support semantic consistency checking across a codebase.
 
 **Tech:** TypeScript, VS Code API, Python, FastAPI, SQLite, Sentence-Transformer, ts-morph, Z3  
 🔗 [View Repository](https://github.com/adnan-bin-wahid/repoalign-vscode)
@@ -98,7 +111,7 @@ A VS Code extension focused on repository-level semantic analysis, code consiste
 ---
 
 ### 🔹 Liberation War Museum Archival System
-A digital archival management system built to organize, index, and manage large-scale historical records and artifacts.
+A full stack archival management system designed to organize, store, and make large-scale historical records more searchable and accessible through a centralized platform.
 
 **Tech:** React.js, Node.js, Express.js, PostgreSQL, Sequelize  
 🔗 [View Repository](https://github.com/adnan-bin-wahid/LWM-Management-System.git)
@@ -106,18 +119,34 @@ A digital archival management system built to organize, index, and manage large-
 ---
 
 ### 🔹 Shikhon360 — Interactive Educational Platform
-An educational platform featuring STEM simulations, AI tutoring, multilingual TTS, and collaborative learning features.
+An educational platform focused on interactive learning features, STEM simulations, AI tutoring, multilingual text-to-speech, and collaborative learning support.
 
-**Tech:** React.js, Node.js, MongoDB, Express.js, Azure TTS, Google Generative AI  
+**Tech:** React.js, Node.js, MongoDB, Express.js, Azure TTS, Google Generative AI, Vercel, Render  
 🔗 [View Repository](https://github.com/adnan-bin-wahid/SNBoseHack.git)
 
 ---
 
 ### 🔹 Gontobbo — Distributed Ride-Sharing System
-A ride-sharing platform with geolocation, fare estimation, JWT authentication, REST APIs, and Docker-based deployment support.
+A ride-sharing system with geolocation support, fare estimation, JWT-based authentication, REST APIs, Docker support, and service-oriented project structure.
 
 **Tech:** React.js, Node.js, MongoDB, JWT, Docker  
 🔗 [View Repository](https://github.com/adnan-bin-wahid/Gontobbo.git)
+
+---
+
+### 🔹 HashStego Vault
+A C/C++ based security project that uses image steganography and cryptographic hashing for secure data embedding and integrity verification.
+
+**Tech:** C, C++  
+🔗 [View Repository](https://github.com/adnan-bin-wahid/HashStegoVault.git)
+
+---
+
+## 🏆 Achievements & Leadership
+
+- Finalist, **BUET CSE Fest 2025 Poster Presentation**
+- 3rd Runner-Up, **SN Bose Hackathon**
+- Assistant General Secretary, **IIT Software Engineers’ Community**
 
 ---
 
@@ -156,7 +185,7 @@ A ride-sharing platform with geolocation, fare estimation, JWT authentication, R
 ## ✨ Quote
 
 <p align="center">
-  <i>"Code is not just about solving problems, it is about creating meaningful solutions."</i>
+  <i>"I like building software that is practical, organized, and useful beyond just the code."</i>
 </p>
 
 ---
